@@ -3,6 +3,8 @@
 The game is made up of two lists of numbers named l_a and l_b.
 In the beginning, l_b will be empty and l_a will contain a certain amount of positive or negative numbers.
 The objective of the game is to sort l_a.
+
+
 In order to accomplish this, you will only have access to the following operation:
 • sa
 swap the first two elements of l_a (nothing will happen if there aren’t enough elements).
